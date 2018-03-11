@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "381444823203",
+    "firebase_url": "https://vote-4ae0c.firebaseio.com",
+    "project_id": "vote-4ae0c",
+    "storage_bucket": "vote-4ae0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381444823203:android:0be81c647f780c6b",
+        "android_client_info": {
+          "package_name": "com.example.ankuryadav.vote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381444823203-rdg9l25rjuac3a2iaa573ak3ln16qs33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9zJhb918puWyBffRhqZAoJxRO3medrvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
